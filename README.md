@@ -17,7 +17,7 @@ Predicts age,gender,ethnicty of image of person uploaded
  - ### uploads
      - image uploaded during prediction are temporarily stored in this folder. **Make sure this folder is not empty during deployment, as git will not track empty folders**.
  - #### app.py : python file
- - #### mobilenet_model.h5 : pretrained model
+ - #### mobilenet_model.zip : pretrained model (lucky that the compressed model is less than 25MB 😄)
  - #### Procfile : needed for Heroku to know what commands it need to run.
  - #### requirements.txt : to specify the libraries needed to install to Heroku.
  - #### runtime.txt : to specify specific version of python.
