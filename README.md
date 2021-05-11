@@ -51,3 +51,7 @@ Predicts age,gender,ethnicty of image of person uploaded
  - ## Deployment
      - You can go through this YT playlist created by me for reference [Deploying ML model on Heroku using Flask](https://www.youtube.com/playlist?list=PL9NRL49Dq8llKW_QW510V-MgIGWhvZoOX).
      - For more details visit [Heroku](https://www.heroku.com/).
+
+# Things I couldn't do because of memory constraint 😢
+- Using `MTCNN` to detect whether the face is present in uploaded image or not.
+- Using better pretrained models for training on UTK face dataset.
