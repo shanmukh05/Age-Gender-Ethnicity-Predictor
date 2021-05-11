@@ -2,6 +2,9 @@
 Predicts age,gender,ethnicty of image of person uploaded
 
 # [Go to the app to test :)](https://aseprediction.herokuapp.com/)
+
+<img src="https://github.com/shanmukh05/Age-Gender-Ethnicity-Predictor/blob/main/images/demo.png" width="600" height = "350">
+
 ### zoom-out to 75% on PC for better experience.
 
 # Details of Files present in Repository
